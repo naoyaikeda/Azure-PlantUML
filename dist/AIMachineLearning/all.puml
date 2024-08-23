@@ -125,3 +125,13 @@ AzureEntityColoring(MicrosoftGenomics)
 !define MicrosoftGenomics(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, MicrosoftGenomics, MicrosoftGenomics)
 !define MicrosoftGenomics(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, MicrosoftGenomics, MicrosoftGenomics)
 
+sprite $AzureOpenAI [70x70/16z] {
+hT87okGm48JHZHfv27t_qsuIlNzus2N3V0TuL2FLluvtpLjL5upKFl9ONJ0O0Ds9T8X8c4o1G6H6H2Cx8AV6Y8o85MjKD5Gkc82eoBIY8V9EaGd8fXAHyQ-g
+6XSCY4GhO-mf6eqifHqO4OrHIv6PXe42Snkf0HCKa5OYez58LlQH-W6p512Ld_NMBSKXMH5no7s58J0g8Xeg8oaICkVAh9syY2bZXr7ndinuaCeOhr4oeoAI
+dQpiCI8gcOdAFfEHyRD2MTbdiX9xZnmesqoXR38EMWXAUgV9CwEaCUlRWg0uHgEHhCYCHfZoNf49o7rbN2F7Z4n6tYioN0EY8YFY51GO7rYabMPq5lB8I2j2
+hM20BAKPEaTKpfc4t58oyfmNp48mH9uJ1YKYIpbZ5e81iXGOb0cYqewAXaWhPyw4m3YUA40G8gkQkOoW10DaAVKA9331Q0Gc6o8wsV2Q-Wq
+}
+
+AzureEntityColoring(AzureOpenAI)
+!define AzureOpenAI(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureOpenAI, AzureOpenAI)
+!define AzureOpenAI(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureOpenAI, AzureOpenAI)
