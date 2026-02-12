@@ -1,0 +1,11 @@
+sprite $AzureAIVideoIndexer [70x70/16z] {
+nTO7hXiW48HXji2otF--hwniv31f4opbLt_b4unhUsEYxq16Z7j7OupeUgzy5IwtIZ73xfLoz0tAdkTIgNck5Po7Ls2U2mNceHMSXrTm7bx1MmcjOFgLN2hX
+MlsB4Y_tUIIyqYCUYgboZiPEj4VLzJKXbTPiHCGm_J5I-SeZNC-CLPguwP77C4QfH8z6RVLRPHuAEXvL5q81n-APKqgrbHxFvY_dKT_1X-Pnb79g7aXiXxzx
+JllgTE6KSZoEPZYbL3udEiOgJGSmC0ygc0KUPtOXbIO-9phEA9LqP59fPKmebRyHvkow2KIIw-f8DCv7Ml-Wz4GZh3L64NKmQX124Vrgu22O-axG-Cfm4Cps
+lVDNxrB788GY6zc7oVI6eO96rRECBerHH8zYPWr2ADBnKwq68HJnpAvd9erHR6REoN_QRoLJDBA67FGt3yjdyzl8oZcZ52pGu9Lzc0PHoZJkcwgjJ6mDD7Wb
+lK6iihgqMsK5h4ehQnefeBBIfLqgQmqmQ0K7uHKSX5VMWa5e1GVXbGM3qEcgGMvJa_R_-mG
+}
+
+AzureEntityColoring(AzureAIVideoIndexer)
+!define AzureAIVideoIndexer(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureAIVideoIndexer, AzureAIVideoIndexer)
+!define AzureAIVideoIndexer(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureAIVideoIndexer, AzureAIVideoIndexer)
